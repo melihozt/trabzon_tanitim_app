@@ -1,0 +1,4 @@
+#Fri Jun 02 23:22:20 TRT 2023
+base.0=C\:\\trabzon_tanitim_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
